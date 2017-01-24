@@ -111,4 +111,6 @@ a {
     display: inline-block;
     padding-left: 0px;
   }
+  .container {
+  max-width: 95%;
 }
